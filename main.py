@@ -1,10 +1,11 @@
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters
 import colorize
-from alive import keep_alive
 import os
+from subprocess import Popen
 
-keep_alive()
+Popen(['python', '-m', 'http.server'])
+
 TOKEN= os.environ['token']
 
 IMAGE_PATH = "temps/image.jpg"
