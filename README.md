@@ -2,7 +2,7 @@
 turns Black and White Image to its colorized version implemented using python in Telegram Bot
 
 ## Telegram Bot Link
-<a href=https://t.me/imagecolorizer_bot target="_blank">https://t.me/imagecolorizer_bot</a>
+<a href=https://t.me/imagecolorizer_bot target="_blank">https://t.me/truecolorizer_bot</a>
 
 
 ### Find Me on :
